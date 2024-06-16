@@ -1,4 +1,3 @@
-const httpStatus = require('http-status-codes')
 const db = require("../infra/db");
 require("dotenv-safe").config();
 const jwt = require('jsonwebtoken');

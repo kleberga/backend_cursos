@@ -1,5 +1,4 @@
 const port = 4000
-const http = require('http')
 const express = require('express')
 const routes = require("./routes/routes")
 const app = express();
